@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": { "id": "wirtschafts-woche", "name": "Wirtschafts Woche" },
+      "author": "Steffen Ermisch",
+      "title": "Hopper Mobility, Podbike, CityQ: Start-ups entwickeln Tretautos",
+      "description": "Gleich mehrere Start-ups tüfteln derzeit an Mini-Pkws mit E-Bike-Technik. Vor allem für Pendler sollen die Velomobile eine umweltfreundliche und gesündere Alternative zum Auto sein.",
+      "url": "https://www.wiwo.de/technologie/mobilitaet/futuremobility/halb-e-bike-halb-e-auto-im-tretauto-am-stau-vorbei/28620026.html",
+      "urlToImage": "https://www.wiwo.de/images/e-bike-auto-hybriden-prpr/28644108/2-format11240.jpg",
+      "publishedAt": "2022-09-05T04:33:15+00:00",
+      "content": "Ein Foto aus den frühen Achtzigern gibt einen Eindruck davon, wie Per Hassel Sørensen seine Jugend verbracht hat. Es zeigt den damals 18-Jährigen und drei Freunde mit einem selbstkonstruierten Lieger… [+5013 chars]"
+    },
+    {
+      "source": { "id": "les-echos", "name": "Les Echos" },
+      "author": "Frédéric Schaeffer",
+      "title": "Covid : la Chine multiplie les confinements malgré le coût économique",
+      "description": "Le verrouillage des 21 millions d'habitants de Chengdu se prolonge. La métropole high-tech est sous tension malgré une poignée de contaminations. La Chine pourrait maintenir sa politique « zéro Covid » après le 20e Congrès du Parti en octobre.",
+      "url": "https://www.lesechos.fr/monde/chine/covid-la-chine-multiplie-les-confinements-malgre-le-cout-economique-1785648",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/631578fedf397572a91080a7/1280x720/0702300890878-web-tete.jpg",
+      "publishedAt": "2022-09-05T04:17:02Z",
+      "content": "« Nous sommes enfermés dans notre résidence depuis 9 jours car il y a eu un cas positif au Covid-19 dans l'immeuble voisin. Nous sommes testés tous les jours et nous avons le droit de nous faire livr… [+3199 chars]"
+    },
+    {
+      "source": { "id": "der-tagesspiegel", "name": "Der Tagesspiegel" },
+      "author": null,
+      "title": "Mindestens zehn Tote bei Messerangriffen in Kanada",
+      "description": "Offenbar wahllos stechen zwei Männer in der ländlichen Provinz Saskatchewan auf mehrere Menschen ein und fliehen. Premier Trudeau äußert sich entsetzt.",
+      "url": "https://www.tagesspiegel.de/gesellschaft/panorama/zwei-tatverdaechtige-auf-der-flucht-mindestens-zehn-tote-bei-messerangriffen-in-kanada/28657902.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/rcmp-manhunt-after-stabbing-spree-in-saskatchewan/28657952/1-format530.jpg",
+      "publishedAt": "2022-09-05T03:17:08+00:00",
+      "content": "Bei einer Serie von Messerangriffen im Zentrum Kanadas sind mindestens zehn Menschen getötet worden. 15 Verletzte seien zudem zur Behandlung in Krankenhäuser gebracht worden, teilte die Polizei in de… [+3605 chars]"
+    },
+    {
+      "source": { "id": "handelsblatt", "name": "Handelsblatt" },
+      "author": "Stephan Scheuer",
+      "title": "Apple: Mit dem iPhone 14 weniger abhängig von China",
+      "description": "Von keinem Land ist der Tech-Konzern so abhängig wie von der Volksrepublik. Das soll sich nun ändern – doch die Hürden sind gewaltig.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/produktion-in-indien-wie-apple-mit-dem-iphone-14-weniger-abhaengig-von-china-werden-will/28621454.html",
+      "urlToImage": "https://www.handelsblatt.com/images/apple-produktion/28628128/2-format2003.jpg",
+      "publishedAt": "2022-09-05T02:00:00+00:00",
+      "content": "San Francisco Die Mauern entlang des Fabrikgeländes in der südchinesischen Metropole Shenzhen sind kilometerlang. Hunderttausende Arbeiterinnen und Arbeiter sollen hier schuften. Der Betreiber, die a… [+6735 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "John Davidson",
+      "title": "Sennheiser Momentum 4 headphones review: comfort, sound quality and long battery life make these among the best headphones we’ve assessed",
+      "description": "They may stick out like a giant pair of ear muffs, but the technology inside Sennheiser’s latest headphones means they get out of your way and let you get on with life.",
+      "url": "http://www.afr.com/technology/sennheiser-momentum-4-are-so-good-they-re-invisible-20220828-p5bddz",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.6107%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_79/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/9e6184c1664a3ad4410c575096509ab39bc5d2eb",
+      "publishedAt": "2022-09-05T01:09:38Z",
+      "content": "Ive been poncing about in a pair of Sennheiser Momentum 4 Wireless headphones these past three days, and Im quite sure when people look at me they think: nothing at all.\r\nThe Sennheiser Momentum 4 wi… [+4657 chars]"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "Those Who Say They Can't Are Usually Right | NextBigFuture.com",
+      "description": "In the MIT Technology Review Celine Halioua, CEO and founder of Loyal a company working on dog longevity said the antiagig field has “suffered from a branding",
+      "url": "https://www.nextbigfuture.com/2022/09/those-who-say-they-cant-are-usually-right.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/09/bothright.jpg",
+      "publishedAt": "2022-09-04T23:33:37Z",
+      "content": "In the MIT Technology Review Celine Halioua, CEO and founder of Loyal a company working on dog longevity said the antiagig field has suffered from a branding issue owing to outlandish claims made in … [+5665 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "David M. HaleESPN Staff Writer ",
+      "title": "Items stolen from Virginia Tech Hokies players' lockers during loss at Old Dominion",
+      "description": "Virginia Tech players had items stolen from their lockers in the visiting locker room during Friday's upset loss at Old Dominion.",
+      "url": "http://espn.go.com/college-football/story/_/id/34524009/items-stolen-virginia-tech-hokies-players-lockers-loss-old-dominion",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0904%2Fr1057262_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-09-04T17:44:00Z",
+      "content": "Virginia Tech's trip to Old Dominion on Friday just keeps getting worse.\r\nAfter the Hokies lost 20-17 in Brent Pry's debut as head coach, players returned to the visiting locker room to find items we… [+1581 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "PA Staff",
+      "title": "Goal-line technology malfunction cost Huddersfield vital point – Danny Schofield",
+      "description": "Huddersfield manager Danny Schofield claimed a goal-line technology malfunction cost his team a share of the spoils following a narrow 1-0 Championship defeat to Blackpool.",
+      "url": "https://www.fourfourtwo.com/news/goal-line-technology-malfunction-cost-huddersfield-vital-point-danny-schofield-1662312456000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fBmFCWyiD2pWzeNH4G7ooM-1200-80.jpg",
+      "publishedAt": "2022-09-04T17:27:36Z",
+      "content": "Huddersfield manager Danny Schofield claimed a goal-line technology malfunction cost his team a share of the spoils following a narrow 1-0 Championship defeat to Blackpool.\r\nThe Terriers went down to… [+2560 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "China's Shenzhen to adopt tiered COVID measures; Chengdu extends lockdown",
+      "description": "China's southern tech hub of Shenzhen said it will adopt tiered anti-virus restriction measures starting on Monday, while the southwestern metropolis of Chengdu announced an extension of lockdown curbs, as the country grapples with fresh outbreaks.",
+      "url": "https://www.reuters.com/world/china/chinas-shenzhen-adopt-tiered-covid-measures-tomorrow-2022-09-04/",
+      "urlToImage": "https://www.reuters.com/resizer/q0fDecPwz6tZdlJo0-25Wo5zrXA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJ32FACNZINZCOWS4M4JKPE2Q.jpg",
+      "publishedAt": "2022-09-04T16:49:33Z",
+      "content": "BEIJING/SHANGHAI, Sept 4 (Reuters) - China's southern tech hub of Shenzhen said it will adopt tiered anti-virus restriction measures starting on Monday, while the southwestern metropolis of Chengdu a… [+2885 chars]"
+    },
+    {
+      "source": { "id": "focus", "name": "Focus" },
+      "author": "FOCUS online",
+      "title": "Formel 1: Fehler von Haas kostet Mick Schumacher die Punktechance in Zandvoort",
+      "description": "Bittere Pille für Mick Schumacher! Unter anderem ein Teamfehler kostet dem Haas-Fahrer weitere Punkte beim Formel-1-Rennen in Zandvoort. Doch Schumacher geht ein erneutes Mal leer aus. Dennoch hat er seinen Optimismus nicht verloren.",
+      "url": "https://www.focus.de/sport/formel1/mick-schumacher-teamfehler-kostet-punktechance-in-zandvoort_id_140695762.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_140754836/mick-schumacher-in-seinem-haas.jpg?im=Crop%3D%280%2C118%2C3770%2C1885%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=medium&hash=7b1f20b78bc68a0012fc5ecbc9880cf90720adc7f2da158f380678b36d416907",
+      "publishedAt": "2022-09-04T16:46:43Z",
+      "content": "Der drittbeste Startplatz in seiner Formel-1-Saison 2022 hat Mick Schumacher kein Punkteergebnis eingebracht. Beim \r\n Niederlande-Grand-Prix in Zandvoort\r\n sah der Haas-Fahrer das Ziel nach 72 Rennru… [+5786 chars]"
+    },
+    {
+      "source": { "id": "wirtschafts-woche", "name": "Wirtschafts Woche" },
+      "author": "Philipp Frohn",
+      "title": "Thelen, Diekmann & Co.: Die durchwachsene Bilanz der Promifonds",
+      "description": "Vor einem Jahr ging Frank Thelen mit seinem Techfonds 10xDNA an den Start – und enttäuscht seither Anleger. Auch andere Promi-Fonds offenbaren Ertragsprobleme.",
+      "url": "https://www.wiwo.de/my/finanzen/geldanlage/geldanlage-mit-promifaktor-thelen-diekmann-und-co-die-durchwachsene-bilanz-der-promifonds/28645254.html",
+      "urlToImage": "https://www.wiwo.de/images/promifonds/28653448/3-format11240.jpg",
+      "publishedAt": "2022-09-04T15:15:59+00:00",
+      "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Mary Beth Griggs, Emma Roth",
+      "title": "NASA’s Artemis I mission is delayed even further",
+      "description": "After technical difficulties disrupted NASA’s Artemis I mission twice, its Space Launch System (SLS) rocket will not launch this week.",
+      "url": "https://www.theverge.com/2022/9/3/23335684/nasa-sls-roll-back-launch-delay-artemis",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Eq00VZkwzWWkqxQsocek0vtgQrI=/0x103:2040x1171/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23326746/lgrush_220317_5079_0015.jpg",
+      "publishedAt": "2022-09-03T22:13:52Z",
+      "content": "Engineers are working through their options for the SLS rocket\r\nNASAs SLS rocket rolling out to the launchpad from the Vehicle Assembly Building in March. \r\nPhoto by Loren Grush / The Verge\r\nNASA wil… [+3641 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Greg Kumparak",
+      "title": "Apple readies its next iPhone, Joe Rogan interviews Zuck, and Twitter purportedly pauses plans to compete with OnlyFans",
+      "description": "Hello again! Welcome back to Week in Review, the newsletter where we quickly recap the last week’s worth of TechCrunch’s most read posts. Want it in your inbox every Saturday morning? Sign up here. Ready? Let’s just dive right in. most read What to expect fro…",
+      "url": "https://techcrunch.com/2022/09/03/apple-readies-its-next-iphone-joe-rogan-interviews-zuck-and-twitter-purportedly-pauses-plans-to-compete-with-onlyfans/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/Screenshot-2022-08-24-at-12.00.27-PM.jpg?w=764",
+      "publishedAt": "2022-09-03T20:16:02Z",
+      "content": "Hello again! Welcome back to Week in Review, the newsletter where we quickly recap the last week’s worth of TechCrunch’s most read posts. Want it in your inbox every Saturday morning? Sign up here.\r\n… [+3568 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": null,
+      "title": "Meet the best tech from IFA 2022 – here are our award winners",
+      "description": "The 10 top products we saw on the IFA 2022 show floor",
+      "url": "https://www.techradar.com/features/meet-the-best-tech-from-ifa-2022-here-are-our-award-winners",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/w6Uy2pLBFbKjYwS5dNYnaN-1200-80.jpeg",
+      "publishedAt": "2022-09-03T18:57:21Z",
+      "content": "The TechRadar team has spent the last few days wearing away the soles of our feet by trekking around the halls of IFA 2022, looking for the smartest, most innovative and highest quality new tech rele… [+12467 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/valentina-palladino",
+      "title": "Introducing Engadget’s 2022 back to school gift guide! | Engadget",
+      "description": "Engadget's 2022 back to school gift guide includes the best tech for college students, including recommendations for laptops, backpacks, accessories and more..",
+      "url": "https://www.engadget.com/introducing-engadgets-2022-back-to-school-gift-guide-160024491.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/21352af0-f7d5-11ec-b2bf-fff85be9c5fb",
+      "publishedAt": "2022-09-02T12:07:19.6289525Z",
+      "content": "It may be too early for you to think about the upcoming school year, but it cant hurt to get a jump-start on planning. We dont mean to take away from the myriad beach days and barbecues you have plan… [+1414 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "Y Combinator, Silicon Valley’s Most Powerful ‘Mafia,’ Gets a New Boss",
+      "description": "The startup incubator birthed big names like Airbnb and Stripe. Incoming CEO Garry Tan says he’ll tap the program’s alumni network to generate new tech giants.",
+      "url": "https://www.wired.com/story/silicon-valleys-most-powerful-mafia-gets-a-new-boss",
+      "urlToImage": "https://media.wired.com/photos/63111628f64c675d6d1a5121/191:100/w_1280,c_limit/Garry-Tan-YCombinator-Business-R0MKB3.jpg",
+      "publishedAt": "2022-09-02T11:00:00Z",
+      "content": "The power of Y Combinator has always been its network. The legendary Silicon Valley startup accelerator is known for smelting mere ideas into some of the most successful companies in technology, incl… [+2756 chars]"
+    },
+    {
+      "source": { "id": "gruenderszene", "name": "Gruenderszene" },
+      "author": null,
+      "title": "45 Millionen Euro nur ein Jahr nach Gründung: Das ist das aktuelle Pitchdeck von Topi",
+      "description": "Hardware-Subscriptions: So erweiterte Topi sein Angebot und erhielt 45 Millionen von Investoren. Hier seht ihr das Pitchdeck des Fintechs.",
+      "url": "https://www.businessinsider.de/gruenderszene/fintech/topi-pitchdeck-zur-45-millionen-runde-des-berliner-startups/",
+      "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/08/Topi-gruenderinnen-pallua-merle-scaled-e1661858536481.jpg?ver=1661858539",
+      "publishedAt": "2022-09-02T09:45:43+00:00",
+      "content": "Hardware-Subscriptions: So erweiterte Topi sein Angebot und erhielt weitere 45 Millionen von Investoren. Hier seht ihr das Pitchdeck des Berliner Fintechs.\r\nVon einer Art B2B-Klarna zum Anbieter von … [+2198 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Alexandre Piquard",
+      "title": "Sous pression, Snapchat est contraint de licencier 1 200 personnes",
+      "description": "Cette réduction de 20 % des effectifs reflète les récentes difficultés rencontrées par le réseau social, et plus largement par plusieurs étoiles pâlissantes de la high-tech américaine.",
+      "url": "https://www.lemonde.fr/economie/article/2022/08/31/sous-pression-snapchat-est-contraint-de-licencier-1-200-personnes_6139713_3234.html",
+      "urlToImage": "https://img.lemde.fr/2022/08/30/141/0/3500/2333/1440/960/60/0/d6391e5_fw1-snap-layoffs-0830-1a.jpg",
+      "publishedAt": "2022-08-31T18:42:34Z",
+      "content": "Un plan social de 1 200 personnes, soit 20 % des effectifs. Ce genre dannonce est inhabituel dans le secteur du numérique. Cest pourtant la mesure qua officialisée Snap mercredi 31 août. « Il est dev… [+3224 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Griffin Wynne",
+      "title": "The Best Labor Day Sales For Your Home",
+      "description": "We found the biggest sales on appliances, technology, mattresses and furniture.",
+      "url": "https://www.huffpost.com/entry/labor-day-sales-mattresses-home-tech_l_63077e68e4b052615d789cc3",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6307e416220000400018ec24.png?cache=OxIMkHo6c6&ops=1200_630",
+      "publishedAt": "2022-08-29T09:45:11Z",
+      "content": "While its sad to see summer come to an end, the huge sales youll find at both major retailers and smaller brands around Labor Day are a top consolation prize. If youve been searching for a sofa, in t… [+611 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Lourdes Avila Uribe",
+      "title": "Labor Day 2022 Splurges Worth Every Penny",
+      "description": "Treat yourself to these can’t-miss deals across every category including beauty, home, tech and more.",
+      "url": "https://www.huffpost.com/entry/labor-day-2022-luxury-sale-items_l_6304e78be4b0e323a25928eb",
+      "urlToImage": "https://img.huffingtonpost.com/asset/63122e3b25000040006692df.png?cache=Qw7reu19wO&ops=1200_630",
+      "publishedAt": "2022-08-28T10:00:05Z",
+      "content": "Labor Day weekend is (almost) here and with it, some significantly reduced prices on items at some of our favorite retailers like Amazon, Bed Bath and Beyond and more. If there was ever an excuse to … [+1541 chars]"
+    }
+  ]
+}
